@@ -90,6 +90,7 @@ h1 {
 
 .meal-item-description {
   margin: 1rem;
+  line-height: 1.5rem;
 }
 
 .meal-item-price {
@@ -212,6 +213,7 @@ h1 {
   color: #1f1a09;
   padding: 0.5rem 1.5rem;
   border-radius: 4px;
+  transition: background-color ease 0.3s;
 }
 
 .button:hover,
