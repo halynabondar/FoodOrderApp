@@ -27,4 +27,4 @@ A simple project built as part of a Udemy course to practice React.
 
 ## Screenshots
 
-![](src/assets/...)
+![screenshot.png](src/assets/screenshot.png)
