@@ -1,14 +1,14 @@
-# FoodOrderApp
+# 📝 FoodOrderApp
 
 A simple project built as part of a Udemy course to practice React.
 
-## Features
+## 🚀 Features
 
-## Tech Stack
+## 🛠️ Technologies Used
 - React
 - Vite
 
-## Installation
+## 🏗️ How to Run the Project
 
 1. Clone the repository:
    ```bash
