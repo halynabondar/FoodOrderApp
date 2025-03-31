@@ -3,10 +3,13 @@
 A simple project built as part of a Udemy course to practice React.
 
 ## 🚀 Features
+- 🛒 Add & remove items from cart
+- ✅ Checkout process
+- 🍽️ Fetch meals from an API
+- 🔄 Context API for state management
 
-## 🛠️ Technologies Used
-- React
-- Vite
+## 🛠️ Tech Stack
+- React, Context API, useReducer, custom hooks, CSS (or Tailwind).
 
 ## 🏗️ How to Run the Project
 
