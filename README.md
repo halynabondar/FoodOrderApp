@@ -9,7 +9,7 @@ A simple project built as part of a Udemy course to practice React.
 - 🔄 Context API for state management
 
 ## 🛠️ Tech Stack
-- React, Context API, useReducer, custom hooks, CSS (or Tailwind).
+- React, Context API, useReducer, custom hooks, CSS.
 
 ## 🏗️ How to Run the Project
 
